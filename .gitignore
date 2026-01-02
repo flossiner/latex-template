@@ -18,6 +18,8 @@
 *.out
 *.odt
 *.cls
+*.gittmp
+*.gtx
 !flossiner.cls
 !template.pdf
 !template.tex
